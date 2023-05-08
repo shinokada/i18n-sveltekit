@@ -8,5 +8,6 @@
   "logout": {
     "title": "Logg ut",
     "description": "Klikk på knappen nedenfor for å logge ut av boten."
-  }
+  },
+  "variable-test": "Wow, {company name} er en fin måte for {costumer} å gjøre arbeidet gjort."
 }
