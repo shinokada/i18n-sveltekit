@@ -6,6 +6,7 @@
   "intro": "Følgende er en liste over alle kommandoene du kan bruke med boten.",
   "button": "Klikk her for å se kommandoene",
   "logout": {
-    "title": "Logg ut"
+    "title": "Logg ut",
+    "description": "Klikk på knappen nedenfor for å logge ut av boten."
   }
 }
