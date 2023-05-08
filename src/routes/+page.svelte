@@ -1,2 +1,19 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+  import { i, language } from '@inlang/sdk-js'
+  console.log(language) // => e.g 'en'
+  let company = 'Flowbite-Svelte'
+  let name = 'FS'
+  let costumer = 'Customer'
+</script>
+
+<h1>{i('intro')}</h1>
+
+<p>
+  {i('button')}
+</p>
+<p>
+  {i('logout.title')}
+</p>
+<p>
+  {i('variable-test')}
+</p>
