@@ -1,3 +1,6 @@
 {
-  "test": "IKKE ENDRE DENNE MELDINGEN. Denne meldingen brukes til testformål."
+  "test": "IKKE ENDRE DENNE MELDINGEN. Denne meldingen brukes til testformål.",
+  "test-nested": {
+    "test": "IKKE ENDRE DENNE MELDINGEN. Denne meldingen brukes til testformål."
+  }
 }
