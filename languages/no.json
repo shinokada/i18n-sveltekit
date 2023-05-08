@@ -4,5 +4,8 @@
     "test": "IKKE ENDRE DENNE MELDINGEN. Denne meldingen brukes til testformål."
   },
   "intro": "Følgende er en liste over alle kommandoene du kan bruke med boten.",
-  "button": "Klikk her for å se kommandoene"
+  "button": "Klikk her for å se kommandoene",
+  "logout": {
+    "title": "Logg ut"
+  }
 }
