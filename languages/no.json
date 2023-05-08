@@ -2,5 +2,6 @@
   "test": "IKKE ENDRE DENNE MELDINGEN. Denne meldingen brukes til testformål.",
   "test-nested": {
     "test": "IKKE ENDRE DENNE MELDINGEN. Denne meldingen brukes til testformål."
-  }
+  },
+  "intro": "Følgende er en liste over alle kommandoene du kan bruke med boten."
 }
